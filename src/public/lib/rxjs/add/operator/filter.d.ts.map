@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/filter.d.ts"],"sourcesContent":["import { filter } from '../../operator/filter';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        filter: typeof filter;\n    }\n}\n"],"file":"rxjs/add/operator/filter.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/dom/ajax.d.ts"],"sourcesContent":["import { AjaxCreationMethod } from './AjaxObservable';\nexport declare const ajax: AjaxCreationMethod;\n"],"file":"rxjs/observable/dom/ajax.d.ts","sourceRoot":"/source/"}

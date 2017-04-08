@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/skipWhile.d.ts"],"sourcesContent":["import { skipWhile } from '../../operator/skipWhile';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        skipWhile: typeof skipWhile;\n    }\n}\n"],"file":"rxjs/add/operator/skipWhile.d.ts","sourceRoot":"/source/"}

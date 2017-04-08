@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/bufferToggle.d.ts"],"sourcesContent":["import { bufferToggle } from '../../operator/bufferToggle';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        bufferToggle: typeof bufferToggle;\n    }\n}\n"],"file":"rxjs/add/operator/bufferToggle.d.ts","sourceRoot":"/source/"}

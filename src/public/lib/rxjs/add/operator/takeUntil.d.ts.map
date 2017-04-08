@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/takeUntil.d.ts"],"sourcesContent":["import { takeUntil } from '../../operator/takeUntil';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        takeUntil: typeof takeUntil;\n    }\n}\n"],"file":"rxjs/add/operator/takeUntil.d.ts","sourceRoot":"/source/"}

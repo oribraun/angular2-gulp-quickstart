@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/isFunction.ts"],"sourcesContent":["export function isFunction(x: any): x is Function {\n  return typeof x === 'function';\n}\n"],"file":"rxjs/src/util/isFunction.ts","sourceRoot":"/source/"}

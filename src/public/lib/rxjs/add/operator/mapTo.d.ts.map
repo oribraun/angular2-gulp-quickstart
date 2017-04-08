@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/mapTo.d.ts"],"sourcesContent":["import { mapTo } from '../../operator/mapTo';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        mapTo: typeof mapTo;\n    }\n}\n"],"file":"rxjs/add/operator/mapTo.d.ts","sourceRoot":"/source/"}

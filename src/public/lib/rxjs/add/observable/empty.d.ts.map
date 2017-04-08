@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/empty.d.ts"],"sourcesContent":["import { empty as staticEmpty } from '../../observable/empty';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let empty: typeof staticEmpty;\n    }\n}\n"],"file":"rxjs/add/observable/empty.d.ts","sourceRoot":"/source/"}

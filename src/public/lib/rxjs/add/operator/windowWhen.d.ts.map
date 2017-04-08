@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/windowWhen.d.ts"],"sourcesContent":["import { windowWhen } from '../../operator/windowWhen';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        windowWhen: typeof windowWhen;\n    }\n}\n"],"file":"rxjs/add/operator/windowWhen.d.ts","sourceRoot":"/source/"}

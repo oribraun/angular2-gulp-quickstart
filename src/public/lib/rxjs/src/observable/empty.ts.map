@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/empty.ts"],"sourcesContent":["import {  EmptyObservable  } from './EmptyObservable';\n\nexport const empty = EmptyObservable.create;"],"file":"rxjs/src/observable/empty.ts","sourceRoot":"/source/"}

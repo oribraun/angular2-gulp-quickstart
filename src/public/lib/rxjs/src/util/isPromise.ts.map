@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/isPromise.ts"],"sourcesContent":["export function isPromise<T>(value: any | Promise<T>): value is Promise<T> {\n  return value && typeof (<any>value).subscribe !== 'function' && typeof (value as any).then === 'function';\n}\n"],"file":"rxjs/src/util/isPromise.ts","sourceRoot":"/source/"}

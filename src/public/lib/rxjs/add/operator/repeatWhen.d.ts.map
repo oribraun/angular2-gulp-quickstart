@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/repeatWhen.d.ts"],"sourcesContent":["import { repeatWhen } from '../../operator/repeatWhen';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        repeatWhen: typeof repeatWhen;\n    }\n}\n"],"file":"rxjs/add/operator/repeatWhen.d.ts","sourceRoot":"/source/"}

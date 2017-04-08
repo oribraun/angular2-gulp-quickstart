@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/Operator.ts"],"sourcesContent":["import { Subscriber } from './Subscriber';\nimport { TeardownLogic } from './Subscription';\n\nexport interface Operator<T, R> {\n  call(subscriber: Subscriber<R>, source: any): TeardownLogic;\n}\n"],"file":"rxjs/src/Operator.ts","sourceRoot":"/source/"}

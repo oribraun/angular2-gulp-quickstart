@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/scheduler/AsapScheduler.d.ts"],"sourcesContent":["import { AsyncAction } from './AsyncAction';\nimport { AsyncScheduler } from './AsyncScheduler';\nexport declare class AsapScheduler extends AsyncScheduler {\n    flush(action?: AsyncAction<any>): void;\n}\n"],"file":"rxjs/scheduler/AsapScheduler.d.ts","sourceRoot":"/source/"}

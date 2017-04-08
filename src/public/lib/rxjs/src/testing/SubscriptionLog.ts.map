@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/testing/SubscriptionLog.ts"],"sourcesContent":["export class SubscriptionLog {\n  constructor(public subscribedFrame: number,\n              public unsubscribedFrame: number = Number.POSITIVE_INFINITY) {\n  }\n}"],"file":"rxjs/src/testing/SubscriptionLog.ts","sourceRoot":"/source/"}

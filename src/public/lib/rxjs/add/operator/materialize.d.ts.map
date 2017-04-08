@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/materialize.d.ts"],"sourcesContent":["import { materialize } from '../../operator/materialize';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        materialize: typeof materialize;\n    }\n}\n"],"file":"rxjs/add/operator/materialize.d.ts","sourceRoot":"/source/"}

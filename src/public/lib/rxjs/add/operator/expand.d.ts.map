@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/expand.d.ts"],"sourcesContent":["import { expand } from '../../operator/expand';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        expand: typeof expand;\n    }\n}\n"],"file":"rxjs/add/operator/expand.d.ts","sourceRoot":"/source/"}

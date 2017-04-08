@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/Rx.global.js"],"sourcesContent":["(function(root, factory) {\n    root.Rx = factory();\n} (window || global || this, function() {\n    return require('../dist/cjs/Rx');\n}));"],"file":"rxjs/src/Rx.global.js","sourceRoot":"/source/"}

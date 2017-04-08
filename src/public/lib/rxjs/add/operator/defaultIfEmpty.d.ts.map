@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/defaultIfEmpty.d.ts"],"sourcesContent":["import { defaultIfEmpty } from '../../operator/defaultIfEmpty';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        defaultIfEmpty: typeof defaultIfEmpty;\n    }\n}\n"],"file":"rxjs/add/operator/defaultIfEmpty.d.ts","sourceRoot":"/source/"}

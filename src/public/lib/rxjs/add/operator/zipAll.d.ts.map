@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/zipAll.d.ts"],"sourcesContent":["import { zipAll } from '../../operator/zipAll';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        zipAll: typeof zipAll;\n    }\n}\n"],"file":"rxjs/add/operator/zipAll.d.ts","sourceRoot":"/source/"}

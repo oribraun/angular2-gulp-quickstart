@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/elementAt.d.ts"],"sourcesContent":["import { elementAt } from '../../operator/elementAt';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        elementAt: typeof elementAt;\n    }\n}\n"],"file":"rxjs/add/operator/elementAt.d.ts","sourceRoot":"/source/"}

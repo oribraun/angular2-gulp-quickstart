@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/merge.ts"],"sourcesContent":["import {  mergeStatic  } from '../operator/merge';\n\nexport const merge = mergeStatic;"],"file":"rxjs/src/observable/merge.ts","sourceRoot":"/source/"}

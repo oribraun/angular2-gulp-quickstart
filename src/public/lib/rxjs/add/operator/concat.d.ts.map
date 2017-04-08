@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/concat.d.ts"],"sourcesContent":["import { concat } from '../../operator/concat';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        concat: typeof concat;\n    }\n}\n"],"file":"rxjs/add/operator/concat.d.ts","sourceRoot":"/source/"}

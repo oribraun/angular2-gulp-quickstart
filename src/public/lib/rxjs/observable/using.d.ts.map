@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/using.d.ts"],"sourcesContent":["import { UsingObservable } from './UsingObservable';\nexport declare const using: typeof UsingObservable.create;\n"],"file":"rxjs/observable/using.d.ts","sourceRoot":"/source/"}

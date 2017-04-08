@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/defer.ts"],"sourcesContent":["import {  DeferObservable  } from './DeferObservable';\n\nexport const defer = DeferObservable.create;"],"file":"rxjs/src/observable/defer.ts","sourceRoot":"/source/"}

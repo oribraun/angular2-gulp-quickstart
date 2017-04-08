@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/ignoreElements.d.ts"],"sourcesContent":["import { ignoreElements } from '../../operator/ignoreElements';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        ignoreElements: typeof ignoreElements;\n    }\n}\n"],"file":"rxjs/add/operator/ignoreElements.d.ts","sourceRoot":"/source/"}

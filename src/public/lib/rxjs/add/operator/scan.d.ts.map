@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/scan.d.ts"],"sourcesContent":["import { scan } from '../../operator/scan';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        scan: typeof scan;\n    }\n}\n"],"file":"rxjs/add/operator/scan.d.ts","sourceRoot":"/source/"}

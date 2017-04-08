@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/bufferCount.d.ts"],"sourcesContent":["import { bufferCount } from '../../operator/bufferCount';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        bufferCount: typeof bufferCount;\n    }\n}\n"],"file":"rxjs/add/operator/bufferCount.d.ts","sourceRoot":"/source/"}

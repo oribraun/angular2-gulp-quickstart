@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/generate.d.ts"],"sourcesContent":["import { GenerateObservable } from '../../observable/GenerateObservable';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let generate: typeof GenerateObservable.create;\n    }\n}\n"],"file":"rxjs/add/observable/generate.d.ts","sourceRoot":"/source/"}

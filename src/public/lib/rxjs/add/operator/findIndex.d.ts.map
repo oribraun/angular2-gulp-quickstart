@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/findIndex.d.ts"],"sourcesContent":["import { findIndex } from '../../operator/findIndex';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        findIndex: typeof findIndex;\n    }\n}\n"],"file":"rxjs/add/operator/findIndex.d.ts","sourceRoot":"/source/"}

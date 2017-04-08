@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/dematerialize.d.ts"],"sourcesContent":["import { dematerialize } from '../../operator/dematerialize';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        dematerialize: typeof dematerialize;\n    }\n}\n"],"file":"rxjs/add/operator/dematerialize.d.ts","sourceRoot":"/source/"}

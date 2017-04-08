@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/sequenceEqual.d.ts"],"sourcesContent":["import { sequenceEqual } from '../../operator/sequenceEqual';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        sequenceEqual: typeof sequenceEqual;\n    }\n}\n"],"file":"rxjs/add/operator/sequenceEqual.d.ts","sourceRoot":"/source/"}

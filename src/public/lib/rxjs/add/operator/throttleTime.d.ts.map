@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/throttleTime.d.ts"],"sourcesContent":["import { throttleTime } from '../../operator/throttleTime';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        throttleTime: typeof throttleTime;\n    }\n}\n"],"file":"rxjs/add/operator/throttleTime.d.ts","sourceRoot":"/source/"}

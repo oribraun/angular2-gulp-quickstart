@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/buffer.d.ts"],"sourcesContent":["import { buffer } from '../../operator/buffer';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        buffer: typeof buffer;\n    }\n}\n"],"file":"rxjs/add/operator/buffer.d.ts","sourceRoot":"/source/"}

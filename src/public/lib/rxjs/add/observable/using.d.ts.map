@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/using.d.ts"],"sourcesContent":["import { using as staticUsing } from '../../observable/using';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let using: typeof staticUsing;\n    }\n}\n"],"file":"rxjs/add/observable/using.d.ts","sourceRoot":"/source/"}

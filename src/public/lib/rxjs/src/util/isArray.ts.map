@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/isArray.ts"],"sourcesContent":["export const isArray = Array.isArray || (<T>(x: any): x is T[] => x && typeof x.length === 'number');\n"],"file":"rxjs/src/util/isArray.ts","sourceRoot":"/source/"}

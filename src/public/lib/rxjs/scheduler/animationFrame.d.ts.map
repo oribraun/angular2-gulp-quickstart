@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/scheduler/animationFrame.d.ts"],"sourcesContent":["import { AnimationFrameScheduler } from './AnimationFrameScheduler';\nexport declare const animationFrame: AnimationFrameScheduler;\n"],"file":"rxjs/scheduler/animationFrame.d.ts","sourceRoot":"/source/"}

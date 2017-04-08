@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/forkJoin.d.ts"],"sourcesContent":["import { forkJoin as staticForkJoin } from '../../observable/forkJoin';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let forkJoin: typeof staticForkJoin;\n    }\n}\n"],"file":"rxjs/add/observable/forkJoin.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/isScheduler.ts"],"sourcesContent":["import { Scheduler } from '../Scheduler';\nexport function isScheduler(value: any): value is Scheduler {\n  return value && typeof (<any>value).schedule === 'function';\n}\n"],"file":"rxjs/src/util/isScheduler.ts","sourceRoot":"/source/"}

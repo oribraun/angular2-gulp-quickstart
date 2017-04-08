@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/isPromise.d.ts"],"sourcesContent":["export declare function isPromise<T>(value: any | Promise<T>): value is Promise<T>;\n"],"file":"rxjs/util/isPromise.d.ts","sourceRoot":"/source/"}

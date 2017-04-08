@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/fromEventPattern.d.ts"],"sourcesContent":["import { FromEventPatternObservable } from './FromEventPatternObservable';\nexport declare const fromEventPattern: typeof FromEventPatternObservable.create;\n"],"file":"rxjs/observable/fromEventPattern.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/add/observable/throw.ts"],"sourcesContent":["import { Observable } from '../../Observable';\nimport { _throw } from '../../observable/throw';\n\nObservable.throw = _throw;"],"file":"rxjs/src/add/observable/throw.ts","sourceRoot":"/source/"}

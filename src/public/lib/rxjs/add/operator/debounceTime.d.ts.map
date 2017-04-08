@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/debounceTime.d.ts"],"sourcesContent":["import { debounceTime } from '../../operator/debounceTime';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        debounceTime: typeof debounceTime;\n    }\n}\n"],"file":"rxjs/add/operator/debounceTime.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/range.ts"],"sourcesContent":["import {  RangeObservable  } from './RangeObservable';\n\nexport const range = RangeObservable.create;"],"file":"rxjs/src/observable/range.ts","sourceRoot":"/source/"}

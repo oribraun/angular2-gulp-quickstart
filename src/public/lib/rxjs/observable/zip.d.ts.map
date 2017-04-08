@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/zip.d.ts"],"sourcesContent":["import { zipStatic } from '../operator/zip';\nexport declare const zip: typeof zipStatic;\n"],"file":"rxjs/observable/zip.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/isDate.ts"],"sourcesContent":["export function isDate(value: any): value is Date {\n  return value instanceof Date && !isNaN(+value);\n}\n"],"file":"rxjs/src/util/isDate.ts","sourceRoot":"/source/"}

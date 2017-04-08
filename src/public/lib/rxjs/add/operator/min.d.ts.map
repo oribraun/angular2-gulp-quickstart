@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/min.d.ts"],"sourcesContent":["import { min } from '../../operator/min';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        min: typeof min;\n    }\n}\n"],"file":"rxjs/add/operator/min.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/concat.d.ts"],"sourcesContent":["import { concatStatic } from '../operator/concat';\nexport declare const concat: typeof concatStatic;\n"],"file":"rxjs/observable/concat.d.ts","sourceRoot":"/source/"}

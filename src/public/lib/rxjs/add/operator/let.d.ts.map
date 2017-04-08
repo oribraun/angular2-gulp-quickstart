@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/let.d.ts"],"sourcesContent":["import { letProto } from '../../operator/let';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        let: typeof letProto;\n        letBind: typeof letProto;\n    }\n}\n"],"file":"rxjs/add/operator/let.d.ts","sourceRoot":"/source/"}

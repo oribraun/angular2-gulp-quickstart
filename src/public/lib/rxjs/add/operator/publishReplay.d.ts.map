@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/publishReplay.d.ts"],"sourcesContent":["import { publishReplay } from '../../operator/publishReplay';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        publishReplay: typeof publishReplay;\n    }\n}\n"],"file":"rxjs/add/operator/publishReplay.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/max.d.ts"],"sourcesContent":["import { max } from '../../operator/max';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        max: typeof max;\n    }\n}\n"],"file":"rxjs/add/operator/max.d.ts","sourceRoot":"/source/"}

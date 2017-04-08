@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/takeWhile.d.ts"],"sourcesContent":["import { takeWhile } from '../../operator/takeWhile';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        takeWhile: typeof takeWhile;\n    }\n}\n"],"file":"rxjs/add/operator/takeWhile.d.ts","sourceRoot":"/source/"}

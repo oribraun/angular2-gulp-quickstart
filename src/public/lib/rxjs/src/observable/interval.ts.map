@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/interval.ts"],"sourcesContent":["import {  IntervalObservable  } from './IntervalObservable';\n\nexport const interval = IntervalObservable.create;"],"file":"rxjs/src/observable/interval.ts","sourceRoot":"/source/"}

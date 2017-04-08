@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/do.d.ts"],"sourcesContent":["import { _do } from '../../operator/do';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        do: typeof _do;\n        _do: typeof _do;\n    }\n}\n"],"file":"rxjs/add/operator/do.d.ts","sourceRoot":"/source/"}

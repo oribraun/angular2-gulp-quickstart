@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/first.d.ts"],"sourcesContent":["import { first } from '../../operator/first';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        first: typeof first;\n    }\n}\n"],"file":"rxjs/add/operator/first.d.ts","sourceRoot":"/source/"}

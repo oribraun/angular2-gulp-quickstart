@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/range.d.ts"],"sourcesContent":["import { range as staticRange } from '../../observable/range';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let range: typeof staticRange;\n    }\n}\n"],"file":"rxjs/add/observable/range.d.ts","sourceRoot":"/source/"}

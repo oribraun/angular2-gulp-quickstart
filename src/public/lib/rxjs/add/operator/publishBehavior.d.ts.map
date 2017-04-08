@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/publishBehavior.d.ts"],"sourcesContent":["import { publishBehavior } from '../../operator/publishBehavior';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        publishBehavior: typeof publishBehavior;\n    }\n}\n"],"file":"rxjs/add/operator/publishBehavior.d.ts","sourceRoot":"/source/"}

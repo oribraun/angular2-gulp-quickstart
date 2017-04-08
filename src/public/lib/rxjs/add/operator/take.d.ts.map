@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/take.d.ts"],"sourcesContent":["import { take } from '../../operator/take';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        take: typeof take;\n    }\n}\n"],"file":"rxjs/add/operator/take.d.ts","sourceRoot":"/source/"}

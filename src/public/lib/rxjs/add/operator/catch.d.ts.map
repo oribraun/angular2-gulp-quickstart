@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/catch.d.ts"],"sourcesContent":["import { _catch } from '../../operator/catch';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        catch: typeof _catch;\n        _catch: typeof _catch;\n    }\n}\n"],"file":"rxjs/add/operator/catch.d.ts","sourceRoot":"/source/"}

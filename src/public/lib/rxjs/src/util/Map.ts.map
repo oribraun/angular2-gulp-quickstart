@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/Map.ts"],"sourcesContent":["import { root } from './root';\nimport { MapPolyfill } from './MapPolyfill';\n\nexport const Map = root.Map || (() => MapPolyfill)();"],"file":"rxjs/src/util/Map.ts","sourceRoot":"/source/"}

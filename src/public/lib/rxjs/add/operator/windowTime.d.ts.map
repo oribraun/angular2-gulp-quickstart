@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/windowTime.d.ts"],"sourcesContent":["import { windowTime } from '../../operator/windowTime';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        windowTime: typeof windowTime;\n    }\n}\n"],"file":"rxjs/add/operator/windowTime.d.ts","sourceRoot":"/source/"}

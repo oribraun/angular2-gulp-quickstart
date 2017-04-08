@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/multicast.d.ts"],"sourcesContent":["import { multicast } from '../../operator/multicast';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        multicast: typeof multicast;\n    }\n}\n"],"file":"rxjs/add/operator/multicast.d.ts","sourceRoot":"/source/"}

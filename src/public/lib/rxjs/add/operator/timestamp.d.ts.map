@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/timestamp.d.ts"],"sourcesContent":["import { timestamp } from '../../operator/timestamp';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        timestamp: typeof timestamp;\n    }\n}\n"],"file":"rxjs/add/operator/timestamp.d.ts","sourceRoot":"/source/"}

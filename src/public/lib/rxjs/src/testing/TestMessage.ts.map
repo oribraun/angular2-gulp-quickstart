@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/testing/TestMessage.ts"],"sourcesContent":["import { Notification } from '../Notification';\n\nexport interface TestMessage {\n  frame: number;\n  notification: Notification<any>;\n}"],"file":"rxjs/src/testing/TestMessage.ts","sourceRoot":"/source/"}

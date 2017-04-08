@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/root.d.ts"],"sourcesContent":["/**\n * window: browser in DOM main thread\n * self: browser in WebWorker\n * global: Node.js/other\n */\nexport declare const root: any;\n"],"file":"rxjs/util/root.d.ts","sourceRoot":"/source/"}

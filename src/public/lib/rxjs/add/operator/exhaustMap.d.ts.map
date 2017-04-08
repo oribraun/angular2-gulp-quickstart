@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/exhaustMap.d.ts"],"sourcesContent":["import { exhaustMap } from '../../operator/exhaustMap';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        exhaustMap: typeof exhaustMap;\n    }\n}\n"],"file":"rxjs/add/operator/exhaustMap.d.ts","sourceRoot":"/source/"}

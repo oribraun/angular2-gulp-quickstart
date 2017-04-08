@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/switchMap.d.ts"],"sourcesContent":["import { switchMap } from '../../operator/switchMap';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        switchMap: typeof switchMap;\n    }\n}\n"],"file":"rxjs/add/operator/switchMap.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/toArray.d.ts"],"sourcesContent":["import { toArray } from '../../operator/toArray';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        toArray: typeof toArray;\n    }\n}\n"],"file":"rxjs/add/operator/toArray.d.ts","sourceRoot":"/source/"}

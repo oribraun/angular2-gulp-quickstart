@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/partition.d.ts"],"sourcesContent":["import { partition } from '../../operator/partition';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        partition: typeof partition;\n    }\n}\n"],"file":"rxjs/add/operator/partition.d.ts","sourceRoot":"/source/"}

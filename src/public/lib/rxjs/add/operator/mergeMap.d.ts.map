@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/mergeMap.d.ts"],"sourcesContent":["import { mergeMap } from '../../operator/mergeMap';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        flatMap: typeof mergeMap;\n        mergeMap: typeof mergeMap;\n    }\n}\n"],"file":"rxjs/add/operator/mergeMap.d.ts","sourceRoot":"/source/"}

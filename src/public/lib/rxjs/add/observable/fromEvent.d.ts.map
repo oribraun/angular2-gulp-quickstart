@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/fromEvent.d.ts"],"sourcesContent":["import { fromEvent as staticFromEvent } from '../../observable/fromEvent';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let fromEvent: typeof staticFromEvent;\n    }\n}\n"],"file":"rxjs/add/observable/fromEvent.d.ts","sourceRoot":"/source/"}

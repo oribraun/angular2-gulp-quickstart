@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/bindNodeCallback.ts"],"sourcesContent":["import {  BoundNodeCallbackObservable  } from './BoundNodeCallbackObservable';\n\nexport const bindNodeCallback = BoundNodeCallbackObservable.create;"],"file":"rxjs/src/observable/bindNodeCallback.ts","sourceRoot":"/source/"}

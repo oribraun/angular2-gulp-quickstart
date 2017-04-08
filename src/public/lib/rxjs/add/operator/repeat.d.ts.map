@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/repeat.d.ts"],"sourcesContent":["import { repeat } from '../../operator/repeat';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        repeat: typeof repeat;\n    }\n}\n"],"file":"rxjs/add/operator/repeat.d.ts","sourceRoot":"/source/"}

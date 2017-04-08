@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/defer.d.ts"],"sourcesContent":["import { defer as staticDefer } from '../../observable/defer';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let defer: typeof staticDefer;\n    }\n}\n"],"file":"rxjs/add/observable/defer.d.ts","sourceRoot":"/source/"}

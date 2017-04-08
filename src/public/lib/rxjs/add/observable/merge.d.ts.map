@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/merge.d.ts"],"sourcesContent":["import { merge as mergeStatic } from '../../observable/merge';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let merge: typeof mergeStatic;\n    }\n}\n"],"file":"rxjs/add/observable/merge.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/errorObject.d.ts"],"sourcesContent":["export declare var errorObject: any;\n"],"file":"rxjs/util/errorObject.d.ts","sourceRoot":"/source/"}

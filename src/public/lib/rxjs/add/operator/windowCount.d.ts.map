@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/windowCount.d.ts"],"sourcesContent":["import { windowCount } from '../../operator/windowCount';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        windowCount: typeof windowCount;\n    }\n}\n"],"file":"rxjs/add/operator/windowCount.d.ts","sourceRoot":"/source/"}

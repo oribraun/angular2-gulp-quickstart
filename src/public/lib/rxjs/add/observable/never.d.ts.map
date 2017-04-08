@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/never.d.ts"],"sourcesContent":["import { never as staticNever } from '../../observable/never';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let never: typeof staticNever;\n    }\n}\n"],"file":"rxjs/add/observable/never.d.ts","sourceRoot":"/source/"}

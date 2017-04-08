@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/pluck.d.ts"],"sourcesContent":["import { pluck } from '../../operator/pluck';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        pluck: typeof pluck;\n    }\n}\n"],"file":"rxjs/add/operator/pluck.d.ts","sourceRoot":"/source/"}

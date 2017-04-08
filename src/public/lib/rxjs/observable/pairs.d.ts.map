@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/pairs.d.ts"],"sourcesContent":["import { PairsObservable } from './PairsObservable';\nexport declare const pairs: typeof PairsObservable.create;\n"],"file":"rxjs/observable/pairs.d.ts","sourceRoot":"/source/"}

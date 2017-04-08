@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/from.d.ts"],"sourcesContent":["import { FromObservable } from './FromObservable';\nexport declare const from: typeof FromObservable.create;\n"],"file":"rxjs/observable/from.d.ts","sourceRoot":"/source/"}

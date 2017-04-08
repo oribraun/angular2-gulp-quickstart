@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/testing/SubscriptionLog.d.ts"],"sourcesContent":["export declare class SubscriptionLog {\n    subscribedFrame: number;\n    unsubscribedFrame: number;\n    constructor(subscribedFrame: number, unsubscribedFrame?: number);\n}\n"],"file":"rxjs/testing/SubscriptionLog.d.ts","sourceRoot":"/source/"}

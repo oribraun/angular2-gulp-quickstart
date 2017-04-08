@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/dom/webSocket.d.ts"],"sourcesContent":["import { WebSocketSubject } from './WebSocketSubject';\nexport declare const webSocket: typeof WebSocketSubject.create;\n"],"file":"rxjs/observable/dom/webSocket.d.ts","sourceRoot":"/source/"}

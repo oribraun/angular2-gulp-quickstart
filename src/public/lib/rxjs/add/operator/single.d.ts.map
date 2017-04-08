@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/single.d.ts"],"sourcesContent":["import { single } from '../../operator/single';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        single: typeof single;\n    }\n}\n"],"file":"rxjs/add/operator/single.d.ts","sourceRoot":"/source/"}

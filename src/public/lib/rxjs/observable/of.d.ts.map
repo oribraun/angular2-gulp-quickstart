@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/of.d.ts"],"sourcesContent":["import { ArrayObservable } from './ArrayObservable';\nexport declare const of: typeof ArrayObservable.of;\n"],"file":"rxjs/observable/of.d.ts","sourceRoot":"/source/"}

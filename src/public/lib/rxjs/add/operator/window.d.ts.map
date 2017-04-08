@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/window.d.ts"],"sourcesContent":["import { window } from '../../operator/window';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        window: typeof window;\n    }\n}\n"],"file":"rxjs/add/operator/window.d.ts","sourceRoot":"/source/"}

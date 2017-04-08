@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/fromPromise.ts"],"sourcesContent":["import {  PromiseObservable  } from './PromiseObservable';\n\nexport const fromPromise = PromiseObservable.create;"],"file":"rxjs/src/observable/fromPromise.ts","sourceRoot":"/source/"}

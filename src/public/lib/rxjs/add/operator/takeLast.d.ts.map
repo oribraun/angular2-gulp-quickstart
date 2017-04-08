@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/takeLast.d.ts"],"sourcesContent":["import { takeLast } from '../../operator/takeLast';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        takeLast: typeof takeLast;\n    }\n}\n"],"file":"rxjs/add/operator/takeLast.d.ts","sourceRoot":"/source/"}

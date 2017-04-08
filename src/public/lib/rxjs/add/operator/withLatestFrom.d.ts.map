@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/withLatestFrom.d.ts"],"sourcesContent":["import { withLatestFrom } from '../../operator/withLatestFrom';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        withLatestFrom: typeof withLatestFrom;\n    }\n}\n"],"file":"rxjs/add/operator/withLatestFrom.d.ts","sourceRoot":"/source/"}

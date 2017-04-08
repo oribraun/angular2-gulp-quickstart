@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/count.d.ts"],"sourcesContent":["import { count } from '../../operator/count';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        count: typeof count;\n    }\n}\n"],"file":"rxjs/add/operator/count.d.ts","sourceRoot":"/source/"}

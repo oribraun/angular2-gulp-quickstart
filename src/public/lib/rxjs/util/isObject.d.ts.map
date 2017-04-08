@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/isObject.d.ts"],"sourcesContent":["export declare function isObject(x: any): x is Object;\n"],"file":"rxjs/util/isObject.d.ts","sourceRoot":"/source/"}

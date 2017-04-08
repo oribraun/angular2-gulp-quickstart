@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/scheduler/queue.ts"],"sourcesContent":["import { QueueAction } from './QueueAction';\nimport { QueueScheduler } from './QueueScheduler';\n\nexport const queue = new QueueScheduler(QueueAction);\n"],"file":"rxjs/src/scheduler/queue.ts","sourceRoot":"/source/"}

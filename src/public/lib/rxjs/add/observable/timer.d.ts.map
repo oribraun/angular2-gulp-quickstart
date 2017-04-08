@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/timer.d.ts"],"sourcesContent":["import { timer as staticTimer } from '../../observable/timer';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let timer: typeof staticTimer;\n    }\n}\n"],"file":"rxjs/add/observable/timer.d.ts","sourceRoot":"/source/"}

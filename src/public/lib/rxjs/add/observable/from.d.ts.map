@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/from.d.ts"],"sourcesContent":["import { from as staticFrom } from '../../observable/from';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let from: typeof staticFrom;\n    }\n}\n"],"file":"rxjs/add/observable/from.d.ts","sourceRoot":"/source/"}

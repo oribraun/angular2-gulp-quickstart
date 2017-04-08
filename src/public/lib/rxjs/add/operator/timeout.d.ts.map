@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/timeout.d.ts"],"sourcesContent":["import { timeout } from '../../operator/timeout';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        timeout: typeof timeout;\n    }\n}\n"],"file":"rxjs/add/operator/timeout.d.ts","sourceRoot":"/source/"}

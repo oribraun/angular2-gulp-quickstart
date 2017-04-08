@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/never.d.ts"],"sourcesContent":["import { NeverObservable } from './NeverObservable';\nexport declare const never: typeof NeverObservable.create;\n"],"file":"rxjs/observable/never.d.ts","sourceRoot":"/source/"}

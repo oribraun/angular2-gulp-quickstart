@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/timer.d.ts"],"sourcesContent":["import { TimerObservable } from './TimerObservable';\nexport declare const timer: typeof TimerObservable.create;\n"],"file":"rxjs/observable/timer.d.ts","sourceRoot":"/source/"}

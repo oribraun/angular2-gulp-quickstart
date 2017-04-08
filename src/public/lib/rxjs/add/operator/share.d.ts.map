@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/share.d.ts"],"sourcesContent":["import { share } from '../../operator/share';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        share: typeof share;\n    }\n}\n"],"file":"rxjs/add/operator/share.d.ts","sourceRoot":"/source/"}

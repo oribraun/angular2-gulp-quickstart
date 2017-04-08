@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/sample.d.ts"],"sourcesContent":["import { sample } from '../../operator/sample';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        sample: typeof sample;\n    }\n}\n"],"file":"rxjs/add/operator/sample.d.ts","sourceRoot":"/source/"}

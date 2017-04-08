@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/merge.d.ts"],"sourcesContent":["import { merge } from '../../operator/merge';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        merge: typeof merge;\n    }\n}\n"],"file":"rxjs/add/operator/merge.d.ts","sourceRoot":"/source/"}

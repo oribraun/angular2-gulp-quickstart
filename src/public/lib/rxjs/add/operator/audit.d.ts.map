@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/audit.d.ts"],"sourcesContent":["import { audit } from '../../operator/audit';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        audit: typeof audit;\n    }\n}\n"],"file":"rxjs/add/operator/audit.d.ts","sourceRoot":"/source/"}

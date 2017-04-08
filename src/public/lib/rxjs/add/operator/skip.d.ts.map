@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/skip.d.ts"],"sourcesContent":["import { skip } from '../../operator/skip';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        skip: typeof skip;\n    }\n}\n"],"file":"rxjs/add/operator/skip.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/combineAll.d.ts"],"sourcesContent":["import { combineAll } from '../../operator/combineAll';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        combineAll: typeof combineAll;\n    }\n}\n"],"file":"rxjs/add/operator/combineAll.d.ts","sourceRoot":"/source/"}

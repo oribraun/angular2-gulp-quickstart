@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/scheduler/asap.d.ts"],"sourcesContent":["import { AsapScheduler } from './AsapScheduler';\nexport declare const asap: AsapScheduler;\n"],"file":"rxjs/scheduler/asap.d.ts","sourceRoot":"/source/"}

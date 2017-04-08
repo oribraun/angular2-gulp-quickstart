@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/if.ts"],"sourcesContent":["import {  IfObservable  } from './IfObservable';\n\nexport const _if = IfObservable.create;"],"file":"rxjs/src/observable/if.ts","sourceRoot":"/source/"}

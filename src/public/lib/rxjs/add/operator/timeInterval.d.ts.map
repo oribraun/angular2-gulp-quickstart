@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/timeInterval.d.ts"],"sourcesContent":["import { timeInterval } from '../../operator/timeInterval';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        timeInterval: typeof timeInterval;\n    }\n}\n"],"file":"rxjs/add/operator/timeInterval.d.ts","sourceRoot":"/source/"}

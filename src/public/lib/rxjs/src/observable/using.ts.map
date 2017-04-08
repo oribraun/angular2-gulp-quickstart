@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/observable/using.ts"],"sourcesContent":["import {  UsingObservable  } from './UsingObservable';\n\nexport const using = UsingObservable.create;"],"file":"rxjs/src/observable/using.ts","sourceRoot":"/source/"}

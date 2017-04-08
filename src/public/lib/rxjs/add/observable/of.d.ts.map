@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/of.d.ts"],"sourcesContent":["import { of as staticOf } from '../../observable/of';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let of: typeof staticOf;\n    }\n}\n"],"file":"rxjs/add/observable/of.d.ts","sourceRoot":"/source/"}

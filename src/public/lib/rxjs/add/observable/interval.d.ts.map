@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/interval.d.ts"],"sourcesContent":["import { interval as staticInterval } from '../../observable/interval';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let interval: typeof staticInterval;\n    }\n}\n"],"file":"rxjs/add/observable/interval.d.ts","sourceRoot":"/source/"}

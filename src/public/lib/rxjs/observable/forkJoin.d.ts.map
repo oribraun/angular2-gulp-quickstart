@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/forkJoin.d.ts"],"sourcesContent":["import { ForkJoinObservable } from './ForkJoinObservable';\nexport declare const forkJoin: typeof ForkJoinObservable.create;\n"],"file":"rxjs/observable/forkJoin.d.ts","sourceRoot":"/source/"}

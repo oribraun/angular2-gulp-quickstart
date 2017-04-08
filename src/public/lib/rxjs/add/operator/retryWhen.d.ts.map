@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/retryWhen.d.ts"],"sourcesContent":["import { retryWhen } from '../../operator/retryWhen';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        retryWhen: typeof retryWhen;\n    }\n}\n"],"file":"rxjs/add/operator/retryWhen.d.ts","sourceRoot":"/source/"}

@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/skipUntil.d.ts"],"sourcesContent":["import { skipUntil } from '../../operator/skipUntil';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        skipUntil: typeof skipUntil;\n    }\n}\n"],"file":"rxjs/add/operator/skipUntil.d.ts","sourceRoot":"/source/"}

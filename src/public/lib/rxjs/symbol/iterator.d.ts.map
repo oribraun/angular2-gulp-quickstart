@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/symbol/iterator.d.ts"],"sourcesContent":["export declare function symbolIteratorPonyfill(root: any): any;\nexport declare const $$iterator: any;\n"],"file":"rxjs/symbol/iterator.d.ts","sourceRoot":"/source/"}

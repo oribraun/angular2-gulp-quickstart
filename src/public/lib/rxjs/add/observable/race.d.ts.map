@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/observable/race.d.ts"],"sourcesContent":["import { raceStatic } from '../../operator/race';\ndeclare module '../../Observable' {\n    namespace Observable {\n        let race: typeof raceStatic;\n    }\n}\n"],"file":"rxjs/add/observable/race.d.ts","sourceRoot":"/source/"}

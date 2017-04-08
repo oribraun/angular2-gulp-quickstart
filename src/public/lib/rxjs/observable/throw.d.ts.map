@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/observable/throw.d.ts"],"sourcesContent":["import { ErrorObservable } from './ErrorObservable';\nexport declare const _throw: typeof ErrorObservable.create;\n"],"file":"rxjs/observable/throw.d.ts","sourceRoot":"/source/"}

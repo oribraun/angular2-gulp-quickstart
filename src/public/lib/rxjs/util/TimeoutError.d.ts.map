@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/TimeoutError.d.ts"],"sourcesContent":["/**\n * An error thrown when duetime elapses.\n *\n * @see {@link timeout}\n *\n * @class TimeoutError\n */\nexport declare class TimeoutError extends Error {\n    constructor();\n}\n"],"file":"rxjs/util/TimeoutError.d.ts","sourceRoot":"/source/"}

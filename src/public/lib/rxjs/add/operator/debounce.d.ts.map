@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/debounce.d.ts"],"sourcesContent":["import { debounce } from '../../operator/debounce';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        debounce: typeof debounce;\n    }\n}\n"],"file":"rxjs/add/operator/debounce.d.ts","sourceRoot":"/source/"}

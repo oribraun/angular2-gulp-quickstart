@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/tryCatch.d.ts"],"sourcesContent":["export declare function tryCatch<T extends Function>(fn: T): T;\n"],"file":"rxjs/util/tryCatch.d.ts","sourceRoot":"/source/"}

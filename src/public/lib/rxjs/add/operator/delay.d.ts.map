@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/delay.d.ts"],"sourcesContent":["import { delay } from '../../operator/delay';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        delay: typeof delay;\n    }\n}\n"],"file":"rxjs/add/operator/delay.d.ts","sourceRoot":"/source/"}

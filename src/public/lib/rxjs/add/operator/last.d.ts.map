@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/last.d.ts"],"sourcesContent":["import { last } from '../../operator/last';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        last: typeof last;\n    }\n}\n"],"file":"rxjs/add/operator/last.d.ts","sourceRoot":"/source/"}

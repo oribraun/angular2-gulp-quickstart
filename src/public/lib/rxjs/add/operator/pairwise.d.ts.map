@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/pairwise.d.ts"],"sourcesContent":["import { pairwise } from '../../operator/pairwise';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        pairwise: typeof pairwise;\n    }\n}\n"],"file":"rxjs/add/operator/pairwise.d.ts","sourceRoot":"/source/"}

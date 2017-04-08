@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/bufferTime.d.ts"],"sourcesContent":["import { bufferTime } from '../../operator/bufferTime';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        bufferTime: typeof bufferTime;\n    }\n}\n"],"file":"rxjs/add/operator/bufferTime.d.ts","sourceRoot":"/source/"}

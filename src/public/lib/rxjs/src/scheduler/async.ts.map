@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/scheduler/async.ts"],"sourcesContent":["import { AsyncAction } from './AsyncAction';\nimport { AsyncScheduler } from './AsyncScheduler';\n\nexport const async = new AsyncScheduler(AsyncAction);\n"],"file":"rxjs/src/scheduler/async.ts","sourceRoot":"/source/"}

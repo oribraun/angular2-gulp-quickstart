@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/subscribeOn.d.ts"],"sourcesContent":["import { subscribeOn } from '../../operator/subscribeOn';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        subscribeOn: typeof subscribeOn;\n    }\n}\n"],"file":"rxjs/add/operator/subscribeOn.d.ts","sourceRoot":"/source/"}

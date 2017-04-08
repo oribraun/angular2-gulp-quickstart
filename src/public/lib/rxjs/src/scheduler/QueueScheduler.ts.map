@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/scheduler/QueueScheduler.ts"],"sourcesContent":["import { AsyncScheduler } from './AsyncScheduler';\n\nexport class QueueScheduler extends AsyncScheduler {\n}\n"],"file":"rxjs/src/scheduler/QueueScheduler.ts","sourceRoot":"/source/"}

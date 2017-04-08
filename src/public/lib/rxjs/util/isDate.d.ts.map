@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/util/isDate.d.ts"],"sourcesContent":["export declare function isDate(value: any): value is Date;\n"],"file":"rxjs/util/isDate.d.ts","sourceRoot":"/source/"}

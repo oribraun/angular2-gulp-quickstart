@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/add/operator/distinct.d.ts"],"sourcesContent":["import { distinct } from '../../operator/distinct';\ndeclare module '../../Observable' {\n    interface Observable<T> {\n        distinct: typeof distinct;\n    }\n}\n"],"file":"rxjs/add/operator/distinct.d.ts","sourceRoot":"/source/"}

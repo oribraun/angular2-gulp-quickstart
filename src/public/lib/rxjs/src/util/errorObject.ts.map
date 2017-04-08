@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["rxjs/src/util/errorObject.ts"],"sourcesContent":["// typeof any so that it we don't have to cast when comparing a result to the error object\nexport var errorObject: any = { e: {} };"],"file":"rxjs/src/util/errorObject.ts","sourceRoot":"/source/"}
